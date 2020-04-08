@@ -1,0 +1,16 @@
+{
+    "nama": "ajidk",
+    "nrp": "16421354218162",
+    "age": "21",
+    "jurusan": "Backend Developer",
+    "lulus": "true",
+    "hobby": [
+        "ngopi",
+        "rebahan"
+    ],
+    "dosen": {
+        "dosen1":  "ztoro",
+        "dosen2":  "fulan"
+    }
+    
+}
